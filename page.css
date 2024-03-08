@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.orange{
+    background-color: orange;
+    height: 80px;
+    width: px;
+}
+
+
+img{
+    width: 20px;
+    height: 20px;
+}
+select{
+    background-color: rgb(32, 32, 32);
+    color: orange;
+    border: none;
+}
+nav{
+    color: white;
+    background-color: black;
+    font-size: 8px;
+}
+/* .image{
+    width: 20%;
+    height: 50px;
+} */
+/* .principal{
+    background-image: url(image/sneaker.jpg);
+} */
+
+  button{
+    background-color: rgba(23,234,23,0.0);
+    color: white;
+    border: 1px solid white;
+  }
+main{
+    /* background-color: black; */
+    background-image: url(image/no.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 370px;
+
+
+}
+section{
+    background-color: white;
+    color: black;
+    font-size: 10px;
+}
+footer{
+    height: 350px;
+    background-color: rgb(215, 209, 209);
+    
+   
+}
+.images{
+    height: 250px;
+    
+}
+.rela{
+    
+}
